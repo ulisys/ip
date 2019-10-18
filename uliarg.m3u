@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TSN.png",TSN NECOCHEA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LU82.png",CANAL 10 MDP - HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png",TV PUBLICA - HD
+https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png",TELEFE - SD
+http://flow.nibbletv.info/CH/TEYvGaGkKVVL/Telefe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png",AMERICA TV - HD
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png",NET TV -  HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0048
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png",NET TV - HD 2
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png",KZO - HD
+https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICDADAB.png",CIUDAD TV - HD
+https://www.youtube.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png",CRONICA TV - HD
+https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png",C5N - HD
+https://www.youtube.com/user/c5n/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png",TN - HD
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png",LN+ -  HD
+https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png",CANAL 26 - HD
+https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/C/CNN-en-Espanol-logo-vector-01.svg",CNN ESP - HD
+https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png",FRANCE 24 - HD
+https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
